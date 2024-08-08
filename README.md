@@ -4,7 +4,7 @@
 # *how use?* 
 ## programm have 4 files: 
 ## [main.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#other-file-criticall-need-and-he-in-all-situation-must-be-installed),
-## [main_no_gamepad.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel/edit/main/README.md#main_no_gamepadpy), 
+## [main_no_gamepad.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#main_no_gamepadpy-1), 
 ## OTHER FILE CRITICALL NEED AND HE IN ALL SITUATION MUST BE INSTALLED
 
 # Selecting files
