@@ -3,16 +3,16 @@
 
 # *How to Use?*
 ## The program has 4 files:
-- [main.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#other-file-criticall-need-and-he-in-all-situation-must-be-installed)
-- [main_no_gamepad.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#main_no_gamepadpy-1)  
+## - [main.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#other-file-criticall-need-and-he-in-all-situation-must-be-installed)
+## - [main_no_gamepad.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#main_no_gamepadpy-1)  
 **!! DO NOT UNINSTALL ANY FILES, ALL FILES ARE CRITICALLY NEEDED !!**
 
 # Selecting Files
 ## Check if your game supports a gamepad or not.
 ### There are 3 ways to check:
-1. Start the program with `main.py`, go to the Steam library of your game, and Steam will automatically tell you if the game supports a gamepad.
-2. Check in the game settings.
-3. If it's difficult for you, just search on Google :)
+### 1. Start the program with `main.py`, go to the Steam library of your game, and Steam will automatically tell you if the game supports a gamepad.
+### 2. Check in the game settings.
+### 3. If it's difficult for you, just search on Google :)
 
 # main.py
 ## Who should select this file?
