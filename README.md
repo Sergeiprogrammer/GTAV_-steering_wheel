@@ -5,7 +5,7 @@
 ## The program has 4 files:
 ## - [main.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#other-file-criticall-need-and-he-in-all-situation-must-be-installed)
 ## - [main_no_gamepad.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#main_no_gamepadpy-1)  
-**!! DO NOT UNINSTALL ANY FILES, ALL FILES ARE CRITICALLY NEEDED !!**
+## **!! DO NOT UNINSTALL ANY FILES, ALL FILES ARE CRITICALLY NEEDED !!**
 
 # Selecting Files
 ## Check if your game supports a gamepad or not.
