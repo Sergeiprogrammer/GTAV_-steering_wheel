@@ -20,7 +20,7 @@
 ### if you're game have *no* support of gamepad
 
 # setup programm
-## firt ![install python](https://youtu.be/nU2Egc3Zx3Q?si=UKn9doIC49yTroGD)
+## firt [install python](https://youtu.be/nU2Egc3Zx3Q?si=UKn9doIC49yTroGD)
 ## second install librarys start programm install_all (if you have any problems find and read the Bugs title)
 ## third selcet your language and input 1 (calibrate of your wheel)
 ## fourth if you do all last task start file main.py or main_no_gamepad.py input 2 start game (my programm fork with legal ilegall steam epigames all games!) and enjoy :)
