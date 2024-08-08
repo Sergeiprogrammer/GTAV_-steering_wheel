@@ -1,40 +1,44 @@
 # GTAV_-steering_wheel
-## My project is: steering wheel emulator for a lot of games like GTA, MAFIA, Cyberpunk, Far Cry and each other
+## Project: Steering Wheel Emulator for Games like GTA, Mafia, Cyberpunk, Far Cry, and Others
 
-# *how use?* 
-## programm have 4 files: 
-## [main.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#other-file-criticall-need-and-he-in-all-situation-must-be-installed),
-## [main_no_gamepad.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#main_no_gamepadpy-1), 
-## OTHER FILE CRITICALL NEED AND HE IN ALL SITUATION MUST BE INSTALLED
+# *How to Use?*
+## The program has 4 files:
+- [main.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#other-file-criticall-need-and-he-in-all-situation-must-be-installed)
+- [main_no_gamepad.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#main_no_gamepadpy-1)  
+**!! DO NOT UNINSTALL ANY FILES, ALL FILES ARE CRITICALLY NEEDED !!**
 
-# Selecting files
-## check supporting your game gamepad or no?
-### there are 3 solutions 1 start programm main.py go to steam librray of this game and steam auto say you support game gemapad also 2 you can cheak in game settings but if it hard for you, 3 just search on gogle :)
+# Selecting Files
+## Check if your game supports a gamepad or not.
+### There are 3 ways to check:
+1. Start the program with `main.py`, go to the Steam library of your game, and Steam will automatically tell you if the game supports a gamepad.
+2. Check in the game settings.
+3. If it's difficult for you, just search on Google :)
 
 # main.py
-## who may select this file?
-### if you're game have support of gamepad
+## Who should select this file?
+### Select this file if your game supports a gamepad.
 
 # main_no_gamepad.py
-## who may select this file?
-### if you're game have *no* support of gamepad
+## Who should select this file?
+### Select this file if your game *does not* support a gamepad.
 
-# setup programm
-## firt [install python](https://youtu.be/nU2Egc3Zx3Q?si=UKn9doIC49yTroGD)
-## second install librarys start programm "install_all" (if you have any problems find and read the Bugs title)
-## third selcet your language and input 1 (calibrate of your wheel)
-## fourth if you do all last task start file main.py or main_no_gamepad.py input 2 start game (my programm fork with legal ilegall steam epigames all games!) and enjoy :)
+# Setup Program
+1. First, [install Python](https://youtu.be/nU2Egc3Zx3Q?si=UKn9doIC49yTroGD).
+2. Second, install the necessary libraries by running the "install_all" script (if you have any problems, check the "Bugs" section below).
+3. Third, select your language and input "1" (to calibrate your wheel).
+4. Fourth, after completing the previous steps, start either `main.py` or `main_no_gamepad.py`, input "2" to start the game (my program works with both legal and illegal copies on Steam, Epic Games, and more), and enjoy :)
 
-# for those who are interested in the working principle
-## my proramm get info about wheel uing pygame and you selcet calibrate mod and pull left or right you whell and programm undertend that lef is one cordinate and right other cordinate and from this cordinate he undrestend how much power need to virtual stick of gamepad or button of keyboard 
+# For Those Interested in How It Works
+## My program gets information about the wheel using Pygame. When you select the calibration mode and turn your wheel left or right, the program understands that left is one coordinate and right is another coordinate. Based on these coordinates, it determines the amount of input needed for the virtual gamepad stick or keyboard button.
 
 # BUGS
 
-## if programm say that some stuff not found try seacrh in internet how manually install librarys manually
-### pygame / pip install pygame
-### keyboard / pip install keyboard
-### import vgamepad as vg / pip install vgamepad
+## If the program says that something is not found, try searching the internet for how to manually install the necessary libraries.
+### Example:
+- pygame: `pip install pygame`
+- keyboard: `pip install keyboard`
+- vgamepad: `pip install vgamepad`
 
-## if programm say wheel no found your wheel will be dont supporting of pyagem or not conected if he not connectedchekc documentation of your wheel install plugins or chek youtube
+## If the program says "wheel not found," your wheel might not be supported by Pygame or is not connected. If it's not connected, check the documentation for your wheel, install any required plugins, or look for help on YouTube.
 
-## if programm have other erors who can solves in my documentation add it in Isues of my github repository 
+## If the program has other errors that are not solved in my documentation, please report them in the Issues section of my GitHub repository.
