@@ -1,4 +1,6 @@
 # GTAV_-steering_wheel
+# [Русская вресия](readme_ru.md)
+# [English Version](readme_en.md)
 ## Project: Steering Wheel Emulator for Games like GTA, Mafia, Cyberpunk, Far Cry, and Others
 
 # *How to Use?*
