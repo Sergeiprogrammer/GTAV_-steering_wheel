@@ -4,7 +4,7 @@
 # if you are too lazy to read
 ## download all the files and package them somewhere
 ## Install python according to the guides from YouTube and then run the file install_all.py
-## upload the file main.py or main_no_gamepad.py (if the game does not support gamepad) enter 2 and run the game
+## upload the file main.py or main_no_gamepad.py (if the game does not support gamepad) selcet language in next step enter 2 and run the game
 
 # *How to Use?*
 ## The program has 4 files:
