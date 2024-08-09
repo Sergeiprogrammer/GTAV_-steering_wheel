@@ -1,6 +1,11 @@
 # GTAV_-steering_wheel
 ## Проект: Эмулятор рулевого колеса для игр, таких как GTA, Mafia, Cyberpunk, Far Cry и других
 
+# если вам лень читать
+## скачйте все фалйы и рапакуйте куда нибудь
+## устнаовите python по гайдам с ютуб после запустите файл install_all.py
+## заупстите файл main.py или main_no_gamepad.py (если гра без геймпда) введите 2 и запустите игру
+
 # *Как использовать?*
 ## Программа состоит из 4 файлов:
 ## - [main.py](https://github.com/Sergeiprogrammer/GTAV_-steering_wheel?tab=readme-ov-file#other-file-criticall-need-and-he-in-all-situation-must-be-installed)
